@@ -1,4 +1,4 @@
-### 👋 Hi!
+### 👋 Hello there!
  
  
 Join me on my journey as I begin to upskill in Google Cloud. The majority of my Cloud upskilling will be focused around DevOps and Platform engineering, so expect to see concepts such as Containers, Kubernetes and IaC.
