@@ -21,7 +21,7 @@ Join me on my journey as I begin to upskill in Google Cloud. The majority of my 
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&color=darkgreen)
 
 --- 
-### 🔭 Upskilling
+### 📖 Upskilling
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Tools-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=red)
